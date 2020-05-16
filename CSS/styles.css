@@ -95,6 +95,10 @@ a{
   font-family: cursive;
   margin:10px 20px;
 }
+a:hover{
+  color:#EAF6F6;
+}
+  
 .botpara{
   color:#EAF6F6;
 }
